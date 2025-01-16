@@ -1,8 +1,0 @@
-.env
-
-data
-vendor
-var
-
-#Uncomment in a project
-composer.lock
